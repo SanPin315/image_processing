@@ -1,0 +1,9 @@
+{
+  "python": "3.14.7",
+  "opencv": "5.0.0",
+  "numpy": "2.5.4",
+  "cpu": "Intel(R) Xeon(R) Gold 6326 CPU @ 2.90GHz",
+  "opencv_threads": 64,
+  "timing_repetitions": 5,
+  "cuda_devices": 0
+}

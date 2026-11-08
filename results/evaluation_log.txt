@@ -1,0 +1,6 @@
+Evaluated 3 images x 3 exposure levels = 9 paired cases
+method,psnr_mean,psnr_std,ssim_mean,ssim_std,luminance_error_mean,runtime_ms_mean
+Input,12.2336,1.0481,0.56899,0.09594,0.23356,0.00
+Global HE,19.0194,3.4045,0.65975,0.07408,0.02857,1.12
+Fixed CLAHE,16.5048,1.3550,0.68808,0.03182,0.12616,1.32
+Adaptive,21.3762,3.8915,0.82199,0.06858,0.05528,126.17

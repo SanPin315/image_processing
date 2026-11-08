@@ -1,0 +1,11 @@
+test_adaptive_method_lifts_dark_input (test_lowlight.LowLightTests.test_adaptive_method_lifts_dark_input) ... ok
+test_black_image_stays_finite (test_lowlight.LowLightTests.test_black_image_stays_finite) ... ok
+test_invalid_inputs_raise_clear_errors (test_lowlight.LowLightTests.test_invalid_inputs_raise_clear_errors) ... ok
+test_metrics_identity (test_lowlight.LowLightTests.test_metrics_identity) ... ok
+test_output_shape_and_dtype (test_lowlight.LowLightTests.test_output_shape_and_dtype) ... ok
+test_synthetic_degradation_is_reproducible (test_lowlight.LowLightTests.test_synthetic_degradation_is_reproducible) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.238s
+
+OK
